@@ -7,7 +7,7 @@ The purpose of this project is to apply the recently learned information: flexbo
 
 ## Website Screenshot
 
-<img src="homework\homework-portfolio\Images\portfolio-screenshot.jpg">
+<img src="./images/portfolio-screenshot.jpg">
 
 ## Installation
  
