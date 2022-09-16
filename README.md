@@ -47,4 +47,5 @@ SOFTWARE.
 N/A
 
 ## Deployed website URL:
+https://taranx.github.io/homework-protfolio/
 
